@@ -23,16 +23,6 @@ I am a passionate **Computer Science Engineering (AI & ML)** student with a stro
 - Interactive 3D models of medicinal plants with detailed AYUSH-based information.
 - Implements **React.js, Bootstrap, and responsive UI/UX principles**.
 
-### 🔷 **Live Language Translator Bluetooth Device**
-
-- Developing a real-time multilingual translation system for seamless communication.
-- Integrates **speech-to-text and AI-based translation models**.
-
-### 🔷 **Tamper-Proof Parcel Delivery System**
-
-- Secure package tracking with integrity verification.
-- Implements **blockchain-based logs and IoT monitoring**.
-
 ## 🛠️ Tech Stack & Tools
 
 - **Programming:** C, C++, Python, JavaScript
